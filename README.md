@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-stack developer with a strong interest in web technologies and databases.<br>I enjoy solving problems and writing efficient, maintainable code.<br>Currently focused on improving my backend and system design skills
+MERN-stack developer with a strong interest in web technologies and databases.<br>I enjoy solving problems and writing efficient, maintainable code.<br>Currently focused on improving my backend and system design skills
 
 
 # 💻 Tech Stack:
